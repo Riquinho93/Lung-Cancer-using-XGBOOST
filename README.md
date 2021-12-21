@@ -7,7 +7,6 @@ with low cost and it also helps the people to take the appropriate decision base
 risk status. The data is collected from the website online lung cancer prediction system .
 
 
-## Dataset: Lung cancer Classification
 ## Summarize dataset:
 - Gender: M(male), F(female)
 - Age: Age of the patient
@@ -65,6 +64,10 @@ The low eta value means the model is more robust for overfitting.
 ## Tools used:
 - Pandas(Data vizualization)
 - Xgboost (XGBClassifier)
+- Numpy (Scientific Computing)
+- Matplotlib (Graphics and data vizualization)
+- Seaborn (Data Visualization)
+- Sklearn (Preprocessing and Metrics)
 - Streamlit (Create data app)
 - Heroku (deploy)
 
